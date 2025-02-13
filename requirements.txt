@@ -1,0 +1,10 @@
+streamlit
+openai-whisper
+sounddevice
+pyaudio
+numpy
+wave
+google-generativeai
+plotly
+python-dotenv
+streamlit-audiorecorder
